@@ -1,0 +1,29 @@
+{
+  "name": "telegram-bot-app",
+  "version": "1.0.0",
+  "description": "Telegram bot app to send data to ERP system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashwani-luhaniwal/telegram-bot-app.git"
+  },
+  "keywords": [
+    "telegram",
+    "telegram-bot",
+    "telegram-bot-api"
+  ],
+  "author": "Ashwani Kumar Luhaniwal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ashwani-luhaniwal/telegram-bot-app/issues"
+  },
+  "homepage": "https://github.com/ashwani-luhaniwal/telegram-bot-app#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.30.0",
+    "request": "^2.83.0"
+  }
+}
