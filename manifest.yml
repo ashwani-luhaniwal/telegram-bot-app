@@ -1,5 +1,5 @@
 ---
 applications:
-- name: TelegramApp
-  memory: 200m
+- name: SAPAssetManagement
+  memory: 1024m
   instances: 1
