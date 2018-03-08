@@ -4,7 +4,7 @@ const request = require('request');
 // API with schedule of space launches
 const url = 'https://launchlibrary.net/1.3/launch';
 const trigger = 'I want to travel!';    // user's input
-const token = '480961810:AAECtZ2AkZuyaV0jn6JvgPLMC6mDmkstjdw';
+const token = '';
 
 const bot = new Bot(token, {polling: true});
 
