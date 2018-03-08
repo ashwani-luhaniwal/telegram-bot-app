@@ -4,7 +4,6 @@
   "description": "Telegram bot app to send data to ERP system",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
   "repository": {
