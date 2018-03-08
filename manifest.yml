@@ -1,0 +1,5 @@
+---
+applications:
+- name: TelegramApp
+  memory: 200m
+  instances: 1
