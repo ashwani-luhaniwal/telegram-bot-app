@@ -22,7 +22,9 @@
   },
   "homepage": "https://github.com/ashwani-luhaniwal/telegram-bot-app#readme",
   "dependencies": {
+    "express": "^4.16.2",
     "node-telegram-bot-api": "^0.30.0",
-    "request": "^2.83.0"
+    "request": "^2.83.0",
+    "xml2js": "^0.4.19"
   }
 }
